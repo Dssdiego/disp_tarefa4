@@ -51,7 +51,7 @@ Quando o usuário aperta o botão "OK", a tela 2 fecha e o usuário é retornado
 
 ### Recebimento Resultado
 
-<img src="https://github.com/Dssdiego/disp_tarefa4/blob/main/imagens/9.jpg" width="300"
+<img src="https://github.com/Dssdiego/disp_tarefa4/blob/main/imagens/9.jpg" width="300">
 
 ## Teste 4 (Avaliação Ótima)
 
@@ -65,4 +65,4 @@ Quando o usuário aperta o botão "OK", a tela 2 fecha e o usuário é retornado
 
 ### Recebimento Resultado
 
-<img src="https://github.com/Dssdiego/disp_tarefa4/blob/main/imagens/12.jpg" width="300"
+<img src="https://github.com/Dssdiego/disp_tarefa4/blob/main/imagens/12.jpg" width="300">
